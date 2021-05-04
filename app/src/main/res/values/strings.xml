@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L03-Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="numPax">Num of Pax</string>
+    <string name="svsDisabled">NO SVS</string>
+    <string name="svsEnabled">SVS</string>
+    <string name="gstDisabled">NO GST</string>
+    <string name="gstEnabled">GST</string>
+</resources>
