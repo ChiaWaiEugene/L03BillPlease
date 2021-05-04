@@ -86,5 +86,16 @@ public class MainActivity extends AppCompatActivity {
 
         });
 
+        reset.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View V) {
+                amount.setText("");
+                numPax.setText("");
+                svs.setChecked(false);
+                gst.setChecked(false);
+                discount.setText("");
+            }
+        });
+
     }
 }
